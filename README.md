@@ -20,7 +20,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 While viewing your new repository in GitHub, click the repo Settings icon (looks like a gear). 
 Scroll down to GitHub Pages Section and change the drop down from "none" to "master branch" and click "Save". 
 Scroll back down to see the URL of your published site. Copy this URL and put it in the Webpage link in the first section under the title as shown above.
-
+##CHANGE I MADE 
 ## Editing README.md
 
 You can edit README.md online by clicking on the file name and then the pencil icon OR you can install a text editor like VS Code. 
