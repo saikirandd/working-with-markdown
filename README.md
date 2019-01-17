@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://kids.nationalgeographic.com/animals/tiger/#ww-wild-cats-tiger.jpg "Lynx Kitten")
+![Hosted image](https://github.com/saikirandd/working-with-markdown/blob/master/imag.jpg "tiger")
 
 ## Paragraphs
 
